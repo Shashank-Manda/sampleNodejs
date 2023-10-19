@@ -1,0 +1,27 @@
+{
+  "name": "jfrog-artifactory-list",
+  "version": "1.0.0",
+  "description": "A nodejs package to fetch the list of artifacts from the jfrog. ",
+  "main": "jfrog-artifactory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shashank-Manda/sampleNodejs.git"
+  },
+  "keywords": [
+    "jfrog",
+    "artifactory",
+    "fetch-artifactory"
+  ],
+  "author": "Shashank Manda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shashank-Manda/sampleNodejs/issues"
+  },
+  "homepage": "https://github.com/Shashank-Manda/sampleNodejs#readme",
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
